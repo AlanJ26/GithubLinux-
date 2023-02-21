@@ -1,0 +1,1 @@
+Ansible es una herramienta de gestión y orquestación de configuración. Le permite definir un conjunto de configuraciones para su infraestructura y luego automatizar el proceso de implementación de esas configuraciones en sus servidores
